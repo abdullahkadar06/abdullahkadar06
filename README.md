@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdullah Kadar
 
-<!--
-**abdullahkadar06/abdullahkadar06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack MERN Developer (React, Node.js, MongoDB)  
+🌍 Based in Somalia  
+🚀 I build modern web applications and APIs  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Frontend: React.js, Tailwind CSS, JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB, Mongoose
+- Tools: Git, GitHub, Postman
+
+---
+
+## 🚀 Featured Project
+
+### 🗓️ Appointment Management System (Appointify)
+A full-stack MERN application for booking and managing appointments.
+
+🔹 Features:
+- User authentication (JWT)
+- Appointment booking
+- Admin dashboard
+- Service management
+
+🔹 Tech Stack:
+- React + Vite
+- Node.js + Express
+- MongoDB
+
+👉 GitHub Repo: https://github.com/abdullahkadar06
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/abdullahkadar06
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=abdullahkadar06&show_icons=true&theme=tokyonight)
