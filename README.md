@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdullah Kadar
 
 💻 Full Stack MERN Developer (React, Node.js, MongoDB)  
-🌍 Based in Somalia  
+🌍 Based in Somaliland 
 🚀 I build modern web applications and APIs  
 
 ---
